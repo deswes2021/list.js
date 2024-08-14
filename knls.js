@@ -2548,4 +2548,4 @@
         logo: './img/Colombia/atntv.jpg',
         url: 'https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8',
     }
-]
+];
