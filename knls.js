@@ -1,3 +1,4 @@
+[
     {
         tipo:'nacionales',
         logo: './img/canal2.jpg',
@@ -1447,3 +1448,4 @@
         logo: './img/3x32.jpg',
         tipo: 'adultos'
     }
+]
