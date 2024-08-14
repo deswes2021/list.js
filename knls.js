@@ -1,4 +1,3 @@
-canales = [
     {
         tipo:'nacionales',
         logo: './img/canal2.jpg',
@@ -2547,5 +2546,4 @@ canales = [
         code: 'col',
         logo: './img/Colombia/atntv.jpg',
         url: 'https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8',
-    },
-];
+    }
