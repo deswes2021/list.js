@@ -131,6 +131,11 @@
         tipo: 'infantiles'
     },
     {
+        url: 'https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8',
+        logo: './img/disney.jpg',
+        tipo: 'infantiles'
+    },    
+    {
         url: 'http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8',
         logo: './img/diskid.jpg',
         tipo: 'infantiles'
@@ -1448,4 +1453,36 @@
         logo: './img/3x32.jpg',
         tipo: 'adultos'
     }
+    /*----------------------------------------------------------------------------------------*/
+    ,
+    {
+        url: 'https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8',
+        logo: './img/chinolatvlive.jpg',
+        tipo: 'infantiles'
+    },
+    {
+        url: 'https://s.emisoras.tv:8081/penielkids/index.m3u8',
+        logo: './img/penielkids.jpg',
+        tipo: 'infantiles'
+    },
+    {
+        url: 'https://s.emisoras.tv:8081/diostevekids/index.m3u8',
+        logo: './img/diostevekids.jpg',
+        tipo: 'infantiles'
+    },
+    {
+        url:'https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8',
+        logo:'./img/logoskidsH.jpg',
+        tipo:'infantiles'
+    },
+    {
+        url:'https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8',
+        logo:'./img/boin.jpg',
+        tipo:'infantiles'
+    },
+    {
+        url:'https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8',
+        logo:'./img/acsnetwork.jpg',
+        tipo:'infantiles'
+    }    
 ]
