@@ -1489,5 +1489,10 @@
         url:'https://cloudvideo.servers10.com:8081/8108/index.m3u8',
         logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/img/dpliculaesp.jpg',
         tipo:'cineseries'
-    },    
+    },   
+    {
+        url:'https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/img/TVEia.jpg',
+        tipo:'variados'
+    },     
 ]
