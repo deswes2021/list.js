@@ -1484,5 +1484,10 @@
         url:'https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8',
         logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/img/acsnetwork.jpg',
         tipo:'infantiles'
-    }    
+    },
+    {
+        url:'https://cloudvideo.servers10.com:8081/8108/index.m3u8',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/img/dpliculaesp.jpg',
+        tipo:'cineseries'
+    },    
 ]
