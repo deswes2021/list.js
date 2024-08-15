@@ -1457,32 +1457,32 @@
     ,
     {
         url: 'https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8',
-        logo: 'https://raw.githubusercontent.com/deswes2021/list.js/main/img/13entretension.jpg',
+        logo: 'https://raw.githubusercontent.com/deswes2021/list.js/main/img/chinolatvlive.jpg',
         tipo: 'infantiles'
     },
     {
         url: 'https://s.emisoras.tv:8081/penielkids/index.m3u8',
-        logo: './img/penielkids.jpg',
+        logo: 'https://raw.githubusercontent.com/deswes2021/list.js/main/img/penielkids.jpg',
         tipo: 'infantiles'
     },
     {
         url: 'https://s.emisoras.tv:8081/diostevekids/index.m3u8',
-        logo: './img/diostevekids.jpg',
+        logo: 'https://raw.githubusercontent.com/deswes2021/list.js/main/img/diostevekids.jpg',
         tipo: 'infantiles'
     },
     {
         url:'https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8',
-        logo:'./img/logoskidsH.jpg',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/img/logoskidsH.jpg',
         tipo:'infantiles'
     },
     {
         url:'https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8',
-        logo:'./img/boin.jpg',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/img/boin.jpg',
         tipo:'infantiles'
     },
     {
         url:'https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8',
-        logo:'./img/acsnetwork.jpg',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/img/acsnetwork.jpg',
         tipo:'infantiles'
     }    
 ]
