@@ -37,7 +37,7 @@
     {
         tipo:'nacionales',
         logo: './img/canal10.jpg',
-        url: '',
+        url: 'https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w161190142_b3428000_sleng.m3u8',
     },
     {
         tipo:'nacionales',
