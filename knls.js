@@ -1457,7 +1457,7 @@
     ,
     {
         url: 'https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8',
-        logo: 'https://raw.githubusercontent.com/deswes2021/list.js/main/img/chinolatvlive.jpg',
+        logo: 'https://raw.githubusercontent.com/deswes2021/list.js/img/chinolatvlive.jpg',
         tipo: 'infantiles'
     },
     {
