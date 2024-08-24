@@ -1494,5 +1494,10 @@
         url:'https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8',
         logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/img/TVEia.jpg',
         tipo:'variados'
-    },     
+    },
+    {
+        url:'https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/img/gsgtv.jpg',
+        tipo:'nacionales'
+    },    
 ]
