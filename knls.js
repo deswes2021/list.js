@@ -1499,5 +1499,10 @@
         url:'https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8',
         logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/img/gsgtv.jpg',
         tipo:'nacionales'
-    },    
+    },
+        {
+        url:'http://208.88.245.81/nuevo/deadpool.y.wolverine.2024.dual.mkv',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/img/dw2024.jpg',
+        tipo:'pelis'
+    },
 ]
