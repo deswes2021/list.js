@@ -1567,8 +1567,8 @@
         tipo:'youtb'
     }, 
     {
-        url:'https://vix.com/es-es/video/video-4146294',
-        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/img/dw2024.jpg',
+        url:'http://archive.org/download/1_20200428_20200428/4.mp4',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/ligadelajusticiadoom.jpg',
         tipo:'pelis'
     },    
 ]
