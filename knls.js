@@ -1561,14 +1561,26 @@
         logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/img/gsgtv.jpg',
         tipo:'nacionales'
     },
-    {
-        url:'https://www.youtube.com/embed/ONGuTV8sxZw',
-        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/img/dw2024.jpg',
-        tipo:'youtb'
-    }, 
+    /*-------------------PELICULAS-MP4-------------------*/
     {
         url:'http://archive.org/download/1_20200428_20200428/4.mp4',
         logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/ligadelajusticiadoom.jpg',
         tipo:'pelis'
-    },    
+    },
+    {
+        url:'http://ia601408.us.archive.org/20/items/000_20191216/5.mp4',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/jhonwick1.jpg',
+        tipo:'pelis'
+    },
+    {
+        url:'http://ia801504.us.archive.org/13/items/000_20191225/5.mp4',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/jhonwick2.jpg',
+        tipo:'pelis'
+    },
+        {
+        url:'http://ia601504.us.archive.org/13/items/000_20191225/1.mp4',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/jhonwick3.jpg',
+        tipo:'pelis'
+    },
+    /*-------------------PELICULAS-MP4-------------------*/
 ]
