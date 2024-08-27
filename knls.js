@@ -1562,13 +1562,13 @@
         tipo:'nacionales'
     },
     {
-        url:'http://208.88.245.81/nuevo/deadpool.y.wolverine.2024.dual.mkv',
-        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/img/dw2024.jpg',
-        tipo:'pelis'
-    },
-    {
         url:'https://www.youtube.com/embed/ONGuTV8sxZw',
         logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/img/dw2024.jpg',
         tipo:'youtb'
+    }, 
+    {
+        url:'https://vix.com/es-es/video/video-4146294',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/img/dw2024.jpg',
+        tipo:'pelis'
     },    
 ]
