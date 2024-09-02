@@ -248,7 +248,7 @@
     },
     {
         url: 'https://lte.wiseplayout.com/WiseM3U8_5/master.m3u8',
-        logo: 'https://raw.githubusercontent.com/deswes2021/list.js/main/img/locomotion.jpg',
+        logo: 'https://raw.githubusercontent.com/deswes2021/list.js/main/img/cartoontv.jpg',
         tipo: 'infantiles'
     },
     {
