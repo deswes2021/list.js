@@ -1574,12 +1574,12 @@
     },
     {
         url:'https://akamai2.tubi.video/7d9a60f4-d81e-425e-be2e-463c63db92ef/0emnn92v.mp4',
-        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/masacretexasherencia.jpeg',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/masacretexasherencia.jpg',
         tipo:'pelis'
     },
     {
         url:'https://akamai2.tubi.video/00b85db0-b815-4cd9-8f6b-fcc6b6115c9f/adlb5ll2.mp4',
-        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/jackjill.jpeg',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/jackjill.jpg',
         tipo:'pelis'
     },    
     /*-------------------PELICULAS-MP4-------------------*/
