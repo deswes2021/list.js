@@ -1572,15 +1572,10 @@
         logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/jhonwick1.jpg',
         tipo:'pelis'
     },
-    {
-        url:'http://ia801504.us.archive.org/13/items/000_20191225/5.mp4',
-        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/jhonwick2.jpg',
-        tipo:'pelis'
-    },
         {
-        url:'http://ia601504.us.archive.org/13/items/000_20191225/1.mp4',
+        url:'http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4d042878-a4ee-480d-8f14-ebbfb96388e9',
         logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/jhonwick3.jpg',
         tipo:'pelis'
-    },
+    },    
     /*-------------------PELICULAS-MP4-------------------*/
 ]
