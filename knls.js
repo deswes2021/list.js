@@ -232,7 +232,7 @@
         tipo: 'infantiles'
     },
     {
-        url: 'https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8',
+        url: 'https://lte.wiseplayout.com/WiseM3U8_5/master.m3u8',/*'https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8',*/
         logo: 'https://raw.githubusercontent.com/deswes2021/list.js/main/img/wowtv1.jpg',
         tipo: 'infantiles'
     },
