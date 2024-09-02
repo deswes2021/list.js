@@ -1572,9 +1572,14 @@
         logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/jhonwick1.jpg',
         tipo:'pelis'
     },
-        {
-        url:'http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4d042878-a4ee-480d-8f14-ebbfb96388e9',
-        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/jhonwick3.jpg',
+    {
+        url:'https://akamai2.tubi.video/7d9a60f4-d81e-425e-be2e-463c63db92ef/0emnn92v.mp4',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/masacretexasherencia.jpg',
+        tipo:'pelis'
+    },
+    {
+        url:'https://akamai2.tubi.video/00b85db0-b815-4cd9-8f6b-fcc6b6115c9f/adlb5ll2.mp4',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/jackjill.jpg',
         tipo:'pelis'
     },    
     /*-------------------PELICULAS-MP4-------------------*/
