@@ -1578,8 +1578,8 @@
         tipo:'pelis'
     },
     {
-        url:'https://akamai2.tubi.video/00b85db0-b815-4cd9-8f6b-fcc6b6115c9f/adlb5ll2.mp4',
-        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/jackjill.jpg',
+        url:'https://pelicula.click/?trembed=0&trid=8579&trtype=1',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/billymadison.jpg',
         tipo:'pelis'
     },    
     /*-------------------PELICULAS-MP4-------------------*/
