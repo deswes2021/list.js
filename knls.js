@@ -1578,6 +1578,11 @@
         tipo:'pelis'
     },
     {
+        url:'https://archive.org/download/camino-hacia-el-terror-5_202404/camino%20hacia%20el%20terror%205%20.mp4',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/caminoterror5.jpg',
+        tipo:'pelis'
+    },    
+    {
         url:'https://ia801909.us.archive.org/12/items/shrek_202407/Shrek.mp4',
         logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/shrek1.jpg',
         tipo:'pelis'
