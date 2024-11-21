@@ -1601,6 +1601,11 @@
         url:'https://archive.org/download/shrek_202407/Shrek%20Para%20Siempre.mp4',
         logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/shrek4.jpg',
         tipo:'pelis'
+    },  
+    {
+        url:'https://archive.org/download/el-gato-con-botas-el-ultimo-deseo-720p-dual-1.03-gb_202301/El%20Gato%20Con%20Botas%20El%20%C3%9Altimo%20Deseo%20720p%20DUAL%201.03%20GB.mp4',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/gatobotas2.jpg',
+        tipo:'pelis'
     },    
     /*-------------------PELICULAS-MP4-------------------*/
 ]
