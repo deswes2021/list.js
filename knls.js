@@ -1591,6 +1591,11 @@
         url:'https://archive.org/download/shrek_202407/Shrek%20Tercero.mp4',
         logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/shrek3.jpg',
         tipo:'pelis'
+    },  
+    {
+        url:'https://archive.org/download/shrek_202407/Shrek%20Para%20Siempre.mp4',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/shrek4.jpg',
+        tipo:'pelis'
     },    
     /*-------------------PELICULAS-MP4-------------------*/
 ]
