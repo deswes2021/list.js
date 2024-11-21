@@ -1577,6 +1577,11 @@
         logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/masacretexasherencia.jpg',
         tipo:'pelis'
     },
+{
+        url:'https://archive.org/serve/camino-hacia-el-terror-3/Camino%20hacia%20el%20terror%203.mp4',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/caminoterror3.jpg',
+        tipo:'pelis'
+    },     
     {
         url:'https://archive.org/serve/camino-hacia-el-terror-4-2011/Camino%20Hacia%20el%20Terror%204%202011.ia.mp4',
         logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/caminoterror4.jpg',
