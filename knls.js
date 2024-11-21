@@ -1578,7 +1578,7 @@
         tipo:'pelis'
     },
     {
-        url:'https://archive.org/serve/shrek_202407/Shrek.avi',
+        url:'https://ia801909.us.archive.org/12/items/shrek_202407/Shrek.mp4',
         logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/shrek1.jpg',
         tipo:'pelis'
     },    
