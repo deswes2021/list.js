@@ -1603,7 +1603,8 @@
         tipo:'pelis'
     },  
     {
-        url:'https://archive.org/download/el-gato-con-botas-el-ultimo-deseo-720p-dual-1.03-gb_202301/El%20Gato%20Con%20Botas%20El%20%C3%9Altimo%20Deseo%20720p%20DUAL%201.03%20GB.mp4',
+        url1:'https://archive.org/download/el-gato-con-botas-el-ultimo-deseo-720p-dual-1.03-gb_202301/El%20Gato%20Con%20Botas%20El%20%C3%9Altimo%20Deseo%20720p%20DUAL%201.03%20GB.mp4',
+        url:'https://ia801606.us.archive.org/34/items/el-gato-con-botas_202303/d366571db1e3cb2cdac8e971c5688bbc-720p_compressed.mp4',
         logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/gatobotas2.jpg',
         tipo:'pelis'
     },    
