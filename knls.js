@@ -1578,9 +1578,9 @@
         tipo:'pelis'
     },
     {
-        url:'https://pelicula.click/?trembed=0&trid=8579&trtype=1',
-        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/billymadison.jpg',
+        url:'https://archive.org/serve/shrek_202407/Shrek%202.mp4',
+        logo:'https://raw.githubusercontent.com/deswes2021/list.js/main/pelis/shrek2.jpg',
         tipo:'pelis'
-    },    
+    },   
     /*-------------------PELICULAS-MP4-------------------*/
 ]
